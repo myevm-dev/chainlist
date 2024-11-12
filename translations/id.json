@@ -5,7 +5,7 @@
     "join-our-discord": "Gabung Discord",
     "currency": "Mata Uang",
     "search-networks": "Cari Jaringan",
-    "description": "Chainlist adalah sebuah daftar jaringan EVM. Pengguna bisa menggunakan informasi untuk menghubungkan dompet mereka dan penyedia Web3 middleware ke Chain ID dan Network ID yang sesuai untuk terhubung ke jaringan yang benar.",
+    "description": "EVM list adalah sebuah daftar jaringan EVM. Pengguna bisa menggunakan informasi untuk menghubungkan dompet mereka dan penyedia Web3 middleware ke Chain ID dan Network ID yang sesuai untuk terhubung ke jaringan yang benar.",
     "help-info": "Membantu pengguna terhubung ke jaringan yang didukung EVM",
     "add-your-network": "Tambahkan jaringan anda",
     "add-your-rpc": "Tambahkan RPC anda",

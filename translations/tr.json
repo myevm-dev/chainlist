@@ -5,7 +5,7 @@
     "join-our-discord": "Discord'a Katılın",
     "currency": "Para Birimi",
     "search-networks": "Ağları Ara",
-    "description": "ChainList EVM ağlarının bir listesidir. Kullanıcılar, doğru zincire bağlanmak için cüzdanlarını ve Web3 ara katman yazılımı sağlayıcılarını uygun Chain ID ve Network ID'ye bağlamak için bu bilgileri kullanabilir.",
+    "description": "EVM List EVM ağlarının bir listesidir. Kullanıcılar, doğru zincire bağlanmak için cüzdanlarını ve Web3 ara katman yazılımı sağlayıcılarını uygun Chain ID ve Network ID'ye bağlamak için bu bilgileri kullanabilir.",
     "help-info": "Kullanıcıların EVM destekli ağlara bağlanmasına yardımcı olmak",
     "add-your-network": "Ağınızı Ekleyin",
     "add-your-rpc": "RPC'nizi Ekleyin",
