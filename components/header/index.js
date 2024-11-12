@@ -68,7 +68,7 @@ function Header({ lang, chainName }) {
                 {t("search-networks")}
               </span>
               <input
-                placeholder="ETH, Fantom, ..."
+                placeholder="ETH, Base, ..."
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
                 ref={(input) => input && input.focus()}
