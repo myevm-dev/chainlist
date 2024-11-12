@@ -22,7 +22,7 @@ export const Tooltip = ({ children, content, ...props }) => {
       >
         <Linkify
           componentDecorator={(decoratedHref, decoratedText, key) => (
-            <a key={key} className="text-[#2F80ED] underline" href={decoratedHref} target="blank">
+            <a key={key} className="text-[#ff3833] underline" href={decoratedHref} target="blank">
               {decoratedText}
             </a>
           )}

@@ -63,7 +63,7 @@ function Header({ lang, chainName }) {
       <header className="flex items-end gap-2 w-full sticky top-4 shadow rounded-[10px] z-50">
         <div className="flex flex-col dark:bg-[#0D0D0D] bg-white rounded-[10px] flex-1">
           <div className="rounded-t-[10px] shadow-sm">
-            <label className="flex sm:items-center flex-col sm:flex-row focus-within:ring-2 dark:ring-[#2F80ED] ring-[#2F80ED] rounded-t-[10px]">
+            <label className="flex sm:items-center flex-col sm:flex-row focus-within:ring-2 dark:ring-[#ff3833] ring-[#ff3833] rounded-t-[10px]">
               <span className="font-bold text-sm dark:text-[#B3B3B3] text-black whitespace-nowrap px-3 pt-4 sm:pt-0">
                 {t("search-networks")}
               </span>

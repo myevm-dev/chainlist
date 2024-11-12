@@ -44,7 +44,7 @@ export default function Chain({ chain, buttonOnly, lang }) {
   if (buttonOnly) {
     return (
       <button
-        className="border dark:border-[#171717] border-[#EAEAEA] px-4 py-2 rounded-[50px] dark:text-[#2F80ED] text-[#2F80ED] dark:hover:text-black hover:text-white dark:hover:bg-[#2F80ED] hover:bg-[#2F80ED] w-fit mx-auto"
+        className="border dark:border-[#171717] border-[#EAEAEA] px-4 py-2 rounded-[50px] dark:text-[#ff3833] text-[#ff3833] dark:hover:text-black hover:text-white dark:hover:bg-[#ff3833] hover:bg-[#ff3833] w-fit mx-auto"
         onClick={() => addToNetwork({ address, chain })}
       >
         {t(renderProviderText(address))}
@@ -88,7 +88,7 @@ export default function Chain({ chain, buttonOnly, lang }) {
         </table>
 
         <button
-          className="border dark:border-[#171717] border-[#EAEAEA] px-4 py-2 rounded-[50px] mb-auto dark:text-[#2F80ED] text-[#2F80ED] dark:hover:text-black hover:text-white dark:hover:bg-[#2F80ED] hover:bg-[#2F80ED] w-fit mx-auto"
+          className="border dark:border-[#171717] border-[#EAEAEA] px-4 py-2 rounded-[50px] mb-auto dark:text-[#ff3833] text-[#ff3833] dark:hover:text-black hover:text-white dark:hover:bg-[#ff3833] hover:bg-[#ff3833] w-fit mx-auto"
           onClick={() => addToNetwork({ address, chain })}
         >
           {t(renderProviderText(address))}
